@@ -1,0 +1,4 @@
+interface:
+  display_name: "eBay Selling / Commerce API Guide"
+  short_description: "Answer eBay Selling / Commerce / Post-Order API structure questions from bundled references first."
+  default_prompt: "Use $ebay-selling-api-guide to confirm this eBay API structure from references/api/ first."
