@@ -1,6 +1,6 @@
 # ebay — eBay Selling / Commerce API skill
 
-Skill mandiri ala pola `@tts-open-toolkit`/`tts-openapi-*` dari TikTok Shop, untuk
+Skill mandiri (standalone) untuk
 eBay RESTful APIs (Selling, Commerce, Buy, Post-Order). Struktur identik dengan skill
 toolkit:
 
